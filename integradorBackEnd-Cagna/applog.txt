@@ -1,0 +1,120 @@
+[2022-04-24 20:38:12,528] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 20:38:23,125] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 21:06:12,232] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@6b7a1a23
+[2022-04-24 21:06:18,928] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 21:09:38,621] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 21:10:31,963] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@13fb142e
+[2022-04-24 21:10:36,154] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 21:20:37,424] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@10db0a8d
+[2022-04-24 21:20:40,973] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 21:46:46,404] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@17630b52
+[2022-04-24 21:46:51,777] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 21:48:58,414] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@19b9e1c4
+[2022-04-24 21:49:00,521] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 21:50:55,155] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@65eb6ce9
+[2022-04-24 21:50:58,435] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 21:53:08,260] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 21:53:42,675] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 21:53:49,738] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@830880a
+[2022-04-24 21:53:51,547] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 22:37:45,047] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: []
+[2022-04-24 22:37:56,631] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:31]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.OdontologoDto@6a97e619
+[2022-04-24 22:37:58,428] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@134f888a]
+[2022-04-24 22:38:00,528] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:42]   Se encontro el odontologo correctamente
+[2022-04-24 22:38:00,537] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:53]   Se elimino al odontologo correctamente
+[2022-04-24 22:38:03,758] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: []
+[2022-04-24 22:38:10,929] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:31]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.OdontologoDto@6585d333
+[2022-04-24 22:38:12,246] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@7a8767e5]
+[2022-04-24 22:38:15,080] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@667b5de0]
+[2022-04-24 22:38:17,091] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: []
+[2022-04-24 22:38:25,022] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:32]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.PacienteDto@12fe32fe
+[2022-04-24 22:38:27,142] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@3e74a8c6]
+[2022-04-24 22:38:29,833] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:42]   Se encontro el paciente: com.example.integradorBackEndCagna.entity.dto.PacienteDto@55171129
+[2022-04-24 22:38:29,838] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:59]   Se elimino al paciente correctamente
+[2022-04-24 22:38:37,236] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:32]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.PacienteDto@4491bc14
+[2022-04-24 22:38:38,639] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@4ab2b749]
+[2022-04-24 22:38:41,350] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@62fe7c56]
+[2022-04-24 22:38:41,355] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 22:38:41,355] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@5485a454]
+[2022-04-24 22:39:06,520] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@c27f62b]
+[2022-04-24 22:39:06,521] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@68d35b0b]
+[2022-04-24 22:43:33,137] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: []
+[2022-04-24 22:43:40,044] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:31]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.OdontologoDto@758bf291
+[2022-04-24 22:43:41,447] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@9f1bf68]
+[2022-04-24 22:43:43,873] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: []
+[2022-04-24 22:43:50,761] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:32]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.PacienteDto@430872d1
+[2022-04-24 22:43:52,450] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@71e847f]
+[2022-04-24 22:43:57,488] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@2ebfb4bd]
+[2022-04-24 22:43:57,491] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 22:43:57,492] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@435c2845]
+[2022-04-24 22:44:11,257] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@3405c69d
+[2022-04-24 22:44:13,614] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@5badf867]
+[2022-04-24 22:44:13,615] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@38345f4]
+[2022-04-24 22:44:13,616] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 22:44:24,151] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 22:44:24,154] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@74c168e6]
+[2022-04-24 22:44:24,157] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@353ad7c9]
+[2022-04-24 22:50:28,822] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 22:50:31,504] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 22:50:33,183] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: []
+[2022-04-24 22:50:48,036] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:31]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.OdontologoDto@638e9df0
+[2022-04-24 22:50:49,554] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@383b7bae]
+[2022-04-24 22:50:52,014] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@1aa00ab2]
+[2022-04-24 22:50:54,211] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@375a5790]
+[2022-04-24 22:50:55,749] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: []
+[2022-04-24 22:51:06,591] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:32]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.PacienteDto@525e738d
+[2022-04-24 22:51:09,005] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@1b75d7c5]
+[2022-04-24 22:51:12,166] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 22:51:20,787] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@16cda0ce
+[2022-04-24 22:51:23,324] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 22:55:25,789] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: []
+[2022-04-24 22:55:32,193] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:31]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.OdontologoDto@6a97e619
+[2022-04-24 22:55:33,636] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@29d47d41]
+[2022-04-24 22:55:37,402] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: []
+[2022-04-24 22:55:44,323] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:32]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.PacienteDto@6cec9eda
+[2022-04-24 22:55:46,329] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@7fb492a1]
+[2022-04-24 22:55:49,504] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 22:55:56,514] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@107540f5
+[2022-04-24 22:55:58,049] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:01:05,664] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: []
+[2022-04-24 23:01:10,588] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:31]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.OdontologoDto@102b85da
+[2022-04-24 23:01:12,100] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@33b1c5a]
+[2022-04-24 23:01:14,753] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: []
+[2022-04-24 23:01:21,174] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:32]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.PacienteDto@11e4edc9
+[2022-04-24 23:01:23,682] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@54108fef]
+[2022-04-24 23:01:26,169] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:01:32,834] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@3d4cbd59
+[2022-04-24 23:01:34,480] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:09:05,835] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: []
+[2022-04-24 23:09:11,017] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:31]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.OdontologoDto@3dbed264
+[2022-04-24 23:09:12,530] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@7e0122dc]
+[2022-04-24 23:09:15,249] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: []
+[2022-04-24 23:09:21,756] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:32]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.PacienteDto@2ae607ce
+[2022-04-24 23:09:24,932] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@2d70f769]
+[2022-04-24 23:09:27,335] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:09:34,666] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@6e2e13e5
+[2022-04-24 23:09:50,716] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:14:53,176] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: []
+[2022-04-24 23:15:00,282] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:31]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.OdontologoDto@2f772de8
+[2022-04-24 23:15:02,007] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@74928110]
+[2022-04-24 23:15:05,945] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@64df00d1]
+[2022-04-24 23:15:08,683] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: []
+[2022-04-24 23:15:16,410] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:32]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.PacienteDto@24994f63
+[2022-04-24 23:15:23,008] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@6ba57a92]
+[2022-04-24 23:15:26,583] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:15:33,360] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@5f4c1049
+[2022-04-24 23:15:35,428] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:15:38,792] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:29:44,479] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:29:46,408] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:29:49,102] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: []
+[2022-04-24 23:29:53,738] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:31]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.OdontologoDto@3a405370
+[2022-04-24 23:29:55,393] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.OdontologoDto@57f68f4d]
+[2022-04-24 23:29:58,439] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: []
+[2022-04-24 23:30:05,867] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:32]   Odontologo registrado correctamente: com.example.integradorBackEndCagna.entity.dto.PacienteDto@68e78a0c
+[2022-04-24 23:30:07,735] [INFO]  [com.example.integradorBackEndCagna.service.PacienteService:72]   La busqueda fue exitosa: [com.example.integradorBackEndCagna.entity.dto.PacienteDto@1f016fb2]
+[2022-04-24 23:30:09,566] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:30:16,022] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:42]   Turno registrado correctamente: com.example.integradorBackEndCagna.entity.dto.TurnoDto@147872fc
+[2022-04-24 23:30:17,160] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:30:31,166] [INFO]  [com.example.integradorBackEndCagna.service.TurnoService:80]   La busqueda fue exitosa: []
+[2022-04-24 23:49:35,504] [INFO]  [com.example.integradorBackEndCagna.service.OdontologoService:66]   La busqueda fue exitosa: []
